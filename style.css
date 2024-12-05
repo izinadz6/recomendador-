@@ -1,10 +1,5 @@
-:root {
-    --blue-color: rgb(42, 122, 228);
-    --dark-bg: rgb(34, 29, 39);
-    --light-bg: black;
-    --white-color: white;
-    --green-color: green;
-}
+
+
 
 body {
     color: var(--white-color);
